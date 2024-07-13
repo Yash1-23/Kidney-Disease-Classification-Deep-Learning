@@ -1,4 +1,5 @@
 # Kidney-Disease-Classification-MLflow-DVC
+<<<<<<< HEAD
 
 
 '''
@@ -29,3 +30,5 @@ conda activate cnncls
 '''bash
 pip install -r requirements.txt
 '''
+=======
+>>>>>>> 5b3b9bed6626d3d50d5bb2d8eaedf2bbb0af9025
