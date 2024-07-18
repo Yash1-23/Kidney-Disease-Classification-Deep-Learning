@@ -1,3 +1,4 @@
+LICENSE
 README.md
 setup.py
 src/cnnClassifier/__init__.py
@@ -10,3 +11,4 @@ src/cnnClassifier/constants/__init__.py
 src/cnnClassifier/entity/__init__.py
 src/cnnClassifier/pipeline/__init__.py
 src/cnnClassifier/utils/__init__.py
+src/cnnClassifier/utils/common.py
